@@ -1,4 +1,4 @@
-![title]![LTFS_Data_Science_FinHack_2_-_1920x480-thumbnail-1200x1200-90](https://user-images.githubusercontent.com/25604111/72835886-8ebf4880-3cb1-11ea-8545-111b958d2e3a.jpg)
+![LTFS_Data_Science_FinHack_2_-_1920x480-thumbnail-1200x1200-90](https://user-images.githubusercontent.com/25604111/72835886-8ebf4880-3cb1-11ea-8545-111b958d2e3a.jpg)
 
 
 # LTFS Data Science FinHack 2
@@ -46,8 +46,3 @@ Public and Private Split Test data is further divided into Public (1st Month) an
 
 * **[Public LB](https://datahack.analyticsvidhya.com/contest/ltfs-data-science-finhack-2-an-online-hackathon)** : **150th/883 Rank**
 * **[Private LB](https://datahack.analyticsvidhya.com/contest/ltfs-data-science-finhack-2-an-online-hackathon)** : **104th/883 Rank**
-
-## Things to learn
-* Prophet for Time series (Visualisations)
-* Time series forecasting Features
-* Simple models that perform well and which meet the feasiblity criteria for deployments.
