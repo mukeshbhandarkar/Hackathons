@@ -151,6 +151,6 @@ Submissions are evaluated on area under the ROC curve between the predicted prob
 * **[Public LB](https://datahack.analyticsvidhya.com/contest/amexpert-2019-machine-learning-hackathon/lb)** : **357th/993 Rank**
 * **[Private LB](https://datahack.analyticsvidhya.com/contest/amexpert-2019-machine-learning-hackathon/pvt_lb)** : **338th/993 Rank**
 
-(6K participants)
+(6K participants).
 
 
